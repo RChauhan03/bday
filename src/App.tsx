@@ -38,11 +38,11 @@ export default function App() {
   ];
 
   const photoPlaceholders = [
-    { id: 1, src: "/public/1.1.png", description: "Motu 1" },
-    { id: 4, src: "/public/4.png", description: "Chipkali" },
-    { id: 3, src: "/public/3.png", description: "Aankhein sahi kar" },
-    { id: 2, src: "/public/2.png", description: "Yeh achi photo hai" },
-    { id: 5, src: "/public/5.png", description: "Motu 2" },
+    { id: 1, src: "/1.1.png", description: "Motu 1" },
+    { id: 4, src: "/4.png", description: "Chipkali" },
+    { id: 3, src: "/3.png", description: "Aankhein sahi kar" },
+    { id: 2, src: "/2.png", description: "Yeh achi photo hai" },
+    { id: 5, src: "/5.png", description: "Motu 2" },
   ];
 
   const handleImageClick = (photo: any) => {
