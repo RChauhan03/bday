@@ -148,12 +148,12 @@ export default function App() {
                     handleImageClick({
                       id: 0,
                       title: "Aanchal - Birthday Queen",
-                      src: "/public/1.png",
+                      src: "/1.png",
                     })
                   }
                 >
                   <img
-                    src="/public/1.png"
+                    src="/1.png"
                     alt="Aanchal - Birthday Queen"
                     className="w-48 h-48 rounded-full object-cover shadow-lg"
                   />
