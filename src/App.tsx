@@ -10,7 +10,6 @@ export default function App() {
   const [showMessage, setShowMessage] = useState(false);
   const [showGallery, setShowGallery] = useState(false);
   const [showModal, setShowModal] = useState(false);
-  const [selectedPhoto, setSelectedPhoto] = useState<any>(null);
   const [confettiBursts, setConfettiBursts] = useState(0);
   const [currentPhotoIndex, setCurrentPhotoIndex] = useState(0);
 
